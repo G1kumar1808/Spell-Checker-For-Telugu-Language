@@ -1,0 +1,2 @@
+src/data/tewiki-latest-pages-articles.xml filter=lfs diff=lfs merge=lfs -text
+IR_Spell_Checker/src/data/tewiki-latest-pages-articles.xml filter=lfs diff=lfs merge=lfs -text
