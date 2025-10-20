@@ -132,7 +132,3 @@ As per the instructions, the large corpus file and the generated index file are 
 - **Link:** `https://github.com/G1kumar1808/Spell-Checker-For-Telugu-Language`
 
 ---
-
-## 6. Final Submission File Structure
-This diagram shows the contents of the final zip file submitted for the assignment.
-S20230010271-A1-SpellChecker-IR-M2025.zip ├── README.md ├── S20230010271-src.zip └── output.txt
