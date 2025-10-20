@@ -1,10 +1,12 @@
 # Assignment 1: Probabilistic Spell Checker for Telugu
 
-**Course:** Information Retrieval (IR) - M2025
+**Course:** Information Retrieval(IR)
 **Submitted By:**
 
 - **Name:** `<Yerram Jeevankumar>`
 - **Roll No:** `<S20230010271>`
+
+To properly view the ouput.txt,please open it in notepad.So that you can view the text properly.
 
 ---
 
