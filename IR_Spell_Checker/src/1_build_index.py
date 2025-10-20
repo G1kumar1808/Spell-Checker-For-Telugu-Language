@@ -1,4 +1,3 @@
-# src/1_build_index.py
 import re
 import json
 from collections import Counter

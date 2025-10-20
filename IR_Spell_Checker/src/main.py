@@ -1,4 +1,3 @@
-# src/main.py
 from spell_checker import SpellChecker
 
 def process_sentence(sentence, checker):
